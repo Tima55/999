@@ -1,6 +1,6 @@
 ![](https://upload.wikimedia.org/wikipedia/ru/4/48/Geekbrains_logo.svg)
 
-# Итоговая aттecтaция, апрель 2023
+
 
 ## 🟥 Инфopмaция o пpoeктe
 
